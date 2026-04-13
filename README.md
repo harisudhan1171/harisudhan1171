@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:harisudhanhs1171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/harisudhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/harisudhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="(https://linkedin.com/in/harisudhan-t-217531294)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ Self-motivated and detail-oriented **B.Sc. Information Technology** graduate wit
 
 - 🎓 B.Sc. IT — Sasurie College of Arts & Science (Bharathiar University) | **81% Aggregate**
 - 🌐 Deployed live projects on **Render** with cloud-backed infrastructure
-- 🤖 Hands-on experience with **deep learning models** for computer vision
+- 🤖 knowledge about **deep learning models** for computer vision
 - 🏆 **Vice President**, IT Association (2023–2024)
 
 ---
@@ -82,7 +82,6 @@ Self-motivated and detail-oriented **B.Sc. Information Technology** graduate wit
 
 - 🏅 **Deloitte Technology Job Simulation** — Certificate of Completion *(Forage, March 2026)*
   Practical tasks: Coding & Development
-- 🎨 **Value-Added Course on Web Designing** — Livewire & Sasurie College of Arts & Science
 - 🐍 **Python Programming from Scratch with Practicals** — Tutorials Point
 
 ---
@@ -119,7 +118,7 @@ Self-motivated and detail-oriented **B.Sc. Information Technology** graduate wit
 | Platform | Link |
 |----------|------|
 | 📧 Email | [harisudhanhs1171@gmail.com](mailto:harisudhanhs1171@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/harisudhan](https://linkedin.com/in/harisudhan) |
+| 💼 LinkedIn | [linkedin.com/in/harisudhan](https://linkedin.com/in/harisudhan-t-217531294) |
 | 🐙 GitHub | [github.com/harisudhan](https://github.com/harisudhan) |
 
 ---
